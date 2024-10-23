@@ -1,0 +1,33 @@
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#headerBox{
+  width: 80vw;
+  border: 1px solid black;
+  height: 10vh;
+
+  display: flex;
+  flex-direction: row;
+}
+#logoBox{
+  border: 1px solid black;
+  width: 19%;
+  height: 100%;
+}
+
+#searchBox{
+  border: 1px solid black;
+  width: 79%;
+  height: 100%;
+}
+
+
+#menuBox{
+  border: 1px solid black;
+  width: 19%;
+  height: 100%;
+}
